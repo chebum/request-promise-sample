@@ -1,0 +1,15 @@
+{
+  "name": "request-promise-sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@types/node": "^12.12.30",
+    "@types/request-promise": "^4.1.46",
+    "bluebird": "^3.7.2",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5",
+    "typescript": "^3.8.3"
+  }
+}
